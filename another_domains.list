@@ -1,12 +1,11 @@
-DOMAIN-SUFFIX,honeycomb.io
 DOMAIN-SUFFIX,eclipsecontent.org // VSCode Store
-DOMAIN,open-vsx.org // VSCode Store
+DOMAIN-SUFFIX,open-vsx.org // VSCode Store
 DOMAIN-SUFFIX,obsidian.md // obsidian.md
 DOMAIN-SUFFIX,itch.io // itch.io
-DOMAIN,ai.google.dev // aistudio.google.com
-DOMAIN,aistudio.google.com // aistudio.google.com
-DOMAIN,nitter.net // nitter.net
-DOMAIN,rutracker.org,DIRECT // rutracker.org
+DOMAIN-SUFFIX,ai.google.dev // aistudio.google.com
+DOMAIN-SUFFIX,aistudio.google.com // aistudio.google.com
+DOMAIN-SUFFIX,nitter.net // nitter.net
+DOMAIN-SUFFIX,rutracker.org,DIRECT // rutracker.org
 DOMAIN-SUFFIX,anthropic.com // Claude Code
 DOMAIN-SUFFIX,claude.ai // Claude
 DOMAIN-SUFFIX,claude.com // Claude
@@ -28,3 +27,4 @@ DOMAIN-SUFFIX,yt3.ggpht.com // YouTube
 DOMAIN-SUFFIX,youtube.googleapis.com // YouTube
 DOMAIN-SUFFIX,raycast.com // Raycast
 DOMAIN-SUFFIX,raycast-releases.com // Raycast
+DOMAIN-SUFFIX,steamdeckhq.com // News about sdeck
