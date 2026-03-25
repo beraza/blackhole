@@ -5,7 +5,7 @@ DOMAIN-SUFFIX,itch.io // itch.io
 DOMAIN-SUFFIX,ai.google.dev // aistudio.google.com
 DOMAIN-SUFFIX,aistudio.google.com // aistudio.google.com
 DOMAIN-SUFFIX,nitter.net // nitter.net
-DOMAIN-SUFFIX,rutracker.org,DIRECT // rutracker.org
+DOMAIN-SUFFIX,rutracker.org // rutracker.org
 DOMAIN-SUFFIX,anthropic.com // Claude Code
 DOMAIN-SUFFIX,claude.ai // Claude
 DOMAIN-SUFFIX,claude.com // Claude
@@ -29,3 +29,11 @@ DOMAIN-SUFFIX,raycast.com // Raycast
 DOMAIN-SUFFIX,raycast-releases.com // Raycast
 DOMAIN-SUFFIX,steamdeckhq.com // News about sdeck
 DOMAIN-SUFFIX,techplanet.today // Test
+DOMAIN-SUFFIX,deckbrew.xyz
+DOMAIN-SUFFIX,chirpmyradio.com
+DOMAIN-SUFFIX,t.me // TG
+DOMAIN-SUFFIX,telegram.org // TG
+DOMAIN-SUFFIX,telegra.ph // TG
+DOMAIN-SUFFIX,flowing-abyss.com
+DOMAIN-SUFFIX,tg.dev // TG
+DOMAIN-SUFFIX,telesco.pe // TG
