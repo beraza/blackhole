@@ -1,20 +1,8 @@
 # NAME: blackhole.list
-# SOURCE: beraza/blackhole (slow.lst + another_domains.list), очищено от дублей
-# UPDATED: 2026-09-16
-# TOTAL: 236
 
 # --- KEYWORD ---
 DOMAIN-KEYWORD,spotify
 DOMAIN-KEYWORD,youtube
-
-# --- .ru / .рф (должны стоять в конфиге ДО ".ru → DIRECT") ---
-DOMAIN-SUFFIX,antkuznetsov.ru
-DOMAIN-SUFFIX,dic.academic.ru
-DOMAIN-SUFFIX,ibash.org.ru
-DOMAIN-SUFFIX,malev.ru
-DOMAIN-SUFFIX,qidi-russia.ru
-DOMAIN-SUFFIX,skazoff.ru
-DOMAIN-SUFFIX,xn--c1asakg.xn--p1ai
 
 # --- Остальные ---
 DOMAIN-SUFFIX,100k1m.com
