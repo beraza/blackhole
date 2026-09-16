@@ -1,128 +1,60 @@
-DOMAIN-SUFFIX,eclipsecontent.org // VSCode Store
-DOMAIN-SUFFIX,open-vsx.org // VSCode Store
-DOMAIN-SUFFIX,obsidian.md // obsidian.md
-DOMAIN-SUFFIX,itch.io // itch.io
-DOMAIN-SUFFIX,ai.google.dev // aistudio.google.com
-DOMAIN-SUFFIX,aistudio.google.com // aistudio.google.com
-DOMAIN-SUFFIX,nitter.net // nitter.net
-DOMAIN-SUFFIX,rutracker.org // rutracker.org
-DOMAIN-SUFFIX,anthropic.com // Claude Code
-DOMAIN-SUFFIX,claude.ai // Claude
-DOMAIN-SUFFIX,claude.com // Claude
-DOMAIN-SUFFIX,medium.com // Medium
-DOMAIN-SUFFIX,x.com // x.com
-DOMAIN-SUFFIX,api.segment.io // ChatGPT
-DOMAIN-SUFFIX,openai.com // ChatGPT
-DOMAIN-SUFFIX,ingest.us.sentry.io // ChatGPT
-DOMAIN-SUFFIX,browser-intake-datadoghq.com // ChatGPT
-DOMAIN-SUFFIX,chatgpt.com // ChatGPT
-DOMAIN-SUFFIX,youtube.com // YouTube
-DOMAIN-SUFFIX,ggpht.com // YouTube
-DOMAIN-SUFFIX,googlevideo.com // YouTube
-DOMAIN-SUFFIX,youtu.be // YouTube
-DOMAIN-SUFFIX,yt.be // YouTube
-DOMAIN-SUFFIX,i.ytimg.com // YouTube
-DOMAIN-SUFFIX,ytimg.com // YouTube
-DOMAIN-SUFFIX,yt3.ggpht.com // YouTube
-DOMAIN-SUFFIX,youtube.googleapis.com // YouTube
-DOMAIN-SUFFIX,raycast.com // Raycast
-DOMAIN-SUFFIX,raycast-releases.com // Raycast
-DOMAIN-SUFFIX,steamdeckhq.com // News about sdeck
-DOMAIN-SUFFIX,techplanet.today // Test
+DOMAIN-SUFFIX,eclipsecontent.org
+DOMAIN-SUFFIX,open-vsx.org
+DOMAIN-SUFFIX,obsidian.md
+DOMAIN-SUFFIX,itch.io
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,nitter.net
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,api.segment.io
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,raycast.com
+DOMAIN-SUFFIX,raycast-releases.com
+DOMAIN-SUFFIX,steamdeckhq.com
+DOMAIN-SUFFIX,techplanet.today
 DOMAIN-SUFFIX,deckbrew.xyz
 DOMAIN-SUFFIX,chirpmyradio.com
-DOMAIN-SUFFIX,t.me // TG
-DOMAIN-SUFFIX,telegram.org // TG
-DOMAIN-SUFFIX,telegra.ph // TG
 DOMAIN-SUFFIX,flowing-abyss.com
-DOMAIN-SUFFIX,tg.dev // TG
-DOMAIN-SUFFIX,telesco.pe // TG
-
-// Youtube
-DOMAIN-SUFFIX,ggpht.com,PROXY
-DOMAIN-SUFFIX,googlevideo.com,PROXY
-DOMAIN-SUFFIX,youtu.be,PROXY
-DOMAIN-SUFFIX,yt.be,PROXY
-DOMAIN-SUFFIX,i.ytimg.com,PROXY
-DOMAIN-SUFFIX,ytimg.com,PROXY
-DOMAIN-SUFFIX,ht.com,PROXY
-DOMAIN-SUFFIX,youtube.googleapis.com,PROXY
-
-DOMAIN-SUFFIX,obsidianstats.com,PROXY
-DOMAIN-SUFFIX,rentry.co,PROXY
-DOMAIN-SUFFIX,claude.com,PROXY
-DOMAIN-SUFFIX,claude.ai,PROXY
-DOMAIN-SUFFIX,sentry.io,PROXY
-DOMAIN-SUFFIX,raycast.com,PROXY
-DOMAIN-SUFFIX,ifconfig.me,PROXY
-DOMAIN-SUFFIX,ipinfo.io,PROXY
-DOMAIN-SUFFIX,aol.com,PROXY
-DOMAIN-SUFFIX,browserleaks.com,PROXY
-DOMAIN-SUFFIX,canva.com,PROXY
-DOMAIN-SUFFIX,dyson.com,PROXY
-DOMAIN-SUFFIX,cdninstagram.com,PROXY
-DOMAIN-SUFFIX,cdnfbsbx.com,PROXY
-DOMAIN-SUFFIX,igcdn.com,PROXY
-DOMAIN-SUFFIX,facebook.com,PROXY
-DOMAIN-SUFFIX,connect.facebook.net,PROXY
-DOMAIN-SUFFIX,graph.facebook.com,PROXY
-DOMAIN-SUFFIX,gateway.facebook.com,PROXY
-DOMAIN-SUFFIX,edge-chat.facebook.com,PROXY
-DOMAIN-SUFFIX,l.facebook.com,PROXY
-DOMAIN-SUFFIX,fb.com,PROXY
-DOMAIN-SUFFIX,fb.me,PROXY
-DOMAIN-SUFFIX,fbsbx.com,PROXY
-DOMAIN-SUFFIX,f.vision,PROXY
-DOMAIN-SUFFIX,fbcdn.net,PROXY
-DOMAIN-SUFFIX,cdnfacebook.com,PROXY
-DOMAIN-SUFFIX,fburl.com,PROXY
-DOMAIN-SUFFIX,jetbrans.com,PROXY
-DOMAIN-SUFFIX,licdn.com,PROXY
-DOMAIN-SUFFIX,linkedin.com,PROXY
-DOMAIN-SUFFIX,lnkd.in,PROXY
-DOMAIN-SUFFIX,maxmind.com,PROXY
-DOMAIN-SUFFIX,medium.com,PROXY
-DOMAIN-SUFFIX,meta.com,PROXY
-DOMAIN-SUFFIX,netflix.com,PROXY
-DOMAIN-SUFFIX,nnmclub.to,PROXY
-DOMAIN-SUFFIX,netpeaksoftware.com,PROXY
-DOMAIN-SUFFIX,openai.com,PROXY
-DOMAIN-SUFFIX,chatgpt.com,PROXY
-DOMAIN-SUFFIX,openwrt.org,PROXY
-DOMAIN-SUFFIX,proton.me,PROXY
-DOMAIN-SUFFIX,quora.com,PROXY
-DOMAIN-SUFFIX,semrush.com,PROXY
-DOMAIN-SUFFIX,setapp.com,PROXY
-DOMAIN-SUFFIX,skladchina.biz,PROXY
-DOMAIN-SUFFIX,slideshare.net,PROXY
-DOMAIN-SUFFIX,soundcloud.com,PROXY
-DOMAIN-SUFFIX,t.co,PROXY
-DOMAIN-SUFFIX,tumblr.com,PROXY
-DOMAIN-SUFFIX,twimg.com,PROXY
-DOMAIN-SUFFIX,twitter.co,PROXY
-DOMAIN-SUFFIX,twitter.com,PROXY
-DOMAIN-SUFFIX,twitthat.com,PROXY
-DOMAIN-SUFFIX,twtkr.com,PROXY
-DOMAIN-SUFFIX,twttr.com,PROXY
-DOMAIN-SUFFIX,vimeo.com,PROXY
-DOMAIN-SUFFIX,vimeocdn.com,PROXY
-DOMAIN-SUFFIX,x.com,PROXY
-
-DOMAIN-KEYWORD,youtube,PROXY,PROXY
-DOMAIN-KEYWORD,instagram,PROXY,PROXY
-DOMAIN-KEYWORD,spotify,PROXY
-
-DOMAIN-SUFFIX,teletype.in,PROXY
-DOMAIN-SUFFIX,qidi-russia.ru,PROXY
-DOMAIN-SUFFIX,vas3k.blog,PROXY
-DOMAIN-SUFFIX,nssurge.com,PROXY
-DOMAIN-SUFFIX,taskforge.md,PROXY
-DOMAIN-SUFFIX,3x-ui.com,PROXY
-DOMAIN-SUFFIX,kickstarter.com,PROXY
-DOMAIN-SUFFIX,algoriddim.com,PROXY
-DOMAIN-SUFFIX,open-meteo.com,PROXY
-DOMAIN-SUFFIX,flipper.net,PROXY
-DOMAIN-SUFFIX,deckbrew.xyz,PROXY
-DOMAIN-SUFFIX,vas3k.cloud,PROXY
-DOMAIN-SUFFIX,cursor.sh,PROXY
-DOMAIN-SUFFIX,macupdater-backend.com,PROXY
+DOMAIN-SUFFIX,ht.com
+DOMAIN-SUFFIX,obsidianstats.com
+DOMAIN-SUFFIX,rentry.co
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,cdnfbsbx.com
+DOMAIN-SUFFIX,igcdn.com
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,f.vision
+DOMAIN-SUFFIX,fburl.com
+DOMAIN-SUFFIX,jetbrans.com
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,lnkd.in
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,nnmclub.to
+DOMAIN-SUFFIX,openwrt.org
+DOMAIN-SUFFIX,slideshare.net
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,tumblr.com
+DOMAIN-SUFFIX,twitter.co
+DOMAIN-SUFFIX,twitthat.com
+DOMAIN-SUFFIX,twtkr.com
+DOMAIN-SUFFIX,twttr.com
+DOMAIN-SUFFIX,vimeo.com
+DOMAIN-SUFFIX,vimeocdn.com
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,spotify
+DOMAIN-SUFFIX,teletype.in
+DOMAIN-SUFFIX,qidi-russia.ru
+DOMAIN-SUFFIX,nssurge.com
+DOMAIN-SUFFIX,taskforge.md
+DOMAIN-SUFFIX,3x-ui.com
+DOMAIN-SUFFIX,kickstarter.com
+DOMAIN-SUFFIX,algoriddim.com
+DOMAIN-SUFFIX,open-meteo.com
+DOMAIN-SUFFIX,flipper.net
+DOMAIN-SUFFIX,vas3k.cloud
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,macupdater-backend.com
